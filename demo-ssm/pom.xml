@@ -21,7 +21,7 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<!--sping 版本号-->
-		<sping.version>4.2.5.RELEASE</sping.version>
+		<sping.version>5.2.7.RELEASE</sping.version>
 
 		<!--MyBatis版本号 -->
 		<mybatis.version>3.5.2</mybatis.version>
